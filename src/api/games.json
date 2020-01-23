@@ -1,0 +1,843 @@
+{
+	"games": [{
+		"id": 1,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_01.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 2,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_02.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 3,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_03.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 4,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_04.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 5,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_05.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 6,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_06.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 7,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_07.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 8,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_08.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 9,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_09.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 10,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_10.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 11,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_11.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 12,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_12.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 13,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_13.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 14,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_14.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 15,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_15.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 16,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_01.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 17,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_02.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 18,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_03.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 19,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_04.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 20,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_05.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 21,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_06.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 22,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_07.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 23,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_08.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 24,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_09.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 25,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_10.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 26,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_11.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 27,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_12.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 28,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_13.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 29,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_14.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 30,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_15.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 31,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_01.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 32,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_02.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 33,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_03.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 34,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_04.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 35,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_05.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 36,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_06.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 37,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_07.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 38,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_08.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 39,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_09.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 40,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_10.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 41,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_11.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 42,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_12.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 43,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_13.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 44,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_14.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 45,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_15.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 46,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_01.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 47,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_02.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 48,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_03.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 49,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_04.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 50,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_05.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 51,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_06.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 52,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_07.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 53,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_08.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 54,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_09.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 55,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_10.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 56,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_11.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 57,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_12.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 58,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_13.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 59,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_14.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 60,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_15.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 61,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_02.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 62,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_03.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 63,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_04.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 64,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_04.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 65,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_05.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 66,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_06.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 67,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_07.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 68,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_08.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 69,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_09.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 70,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_10.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 71,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_11.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 72,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_12.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 73,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_13.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 74,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_14.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 75,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_15.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 76,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_01.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 77,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_02.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 78,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_03.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 79,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_04.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 80,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_05.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 81,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_06.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 82,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_07.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 83,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_08.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 84,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_09.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 85,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_10.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 86,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_11.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 87,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_12.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 88,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_13.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 89,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_14.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 90,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_15.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 91,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_01.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 92,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_02.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 93,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_03.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 94,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_04.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 95,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_05.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 96,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_06.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 97,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_07.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 98,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_08.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 99,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_09.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 100,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_10.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 101,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_11.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 102,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_12.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 103,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_13.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 104,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_14.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 105,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_15.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 106,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_01.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 107,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_02.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 108,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_03.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 109,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_04.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 110,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_05.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 111,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_06.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 112,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_07.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 113,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_08.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 114,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_09.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 115,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_10.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 116,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_11.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 117,
+		"name": "Weekend in Vegas",
+		"img": "/img/master/slider/game_12.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 118,
+		"name": "2 MILLION long name",
+		"img": "/img/master/slider/game_13.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 119,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_14.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}, {
+		"id": 120,
+		"name": "Secret Elixir",
+		"img": "/img/master/slider/game_15.jpg",
+		"link": "https://edemo.endorphina.com/session/open/sid/d196c32421cc1494edd52376c8c673ee",
+		"type": "fruit",
+		"provider": "endorphine"
+	}]
+}
